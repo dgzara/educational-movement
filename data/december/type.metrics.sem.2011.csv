@@ -1,0 +1,4 @@
+"","degree","indegree","outdegree","closeness","betweenness","hub","authority","clusterCoefficient","egenvector.centrality","page.rank"
+"leaders.metrics.sem","3.6719e-02","3.6719e-02","2.0018e-02","0.04585822","0","6.9594e-03","3.6048e-02","0.01529862","3.6501e-02","3.6565e-02"
+"institutions.metrics.sem","3.7182e-03","3.6635e-03","1.1636e-02","0.05366252","0","1.2945e-02","7.6271e-03","0.02090680","1.2951e-02","1.1881e-02"
+"people.metrics.sem","2.0842e-07","1.4862e-08","2.2496e-05","0.00047686","0","3.2665e-05","3.8126e-09","0.00078049","1.0504e-05","1.9913e-08"
