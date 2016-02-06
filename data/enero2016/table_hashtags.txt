@@ -1,0 +1,17 @@
+CREATE TABLE hashtags_time (
+	id				serial PRIMARY KEY,
+	hashtag				character varying(255),
+	created_at			timestamp,
+	favorited			character varying(30),
+	in_reply_to_screen_name	character varying(30),
+	permanent_link			character varying(255),
+	source				character varying(255),
+	text				character varying(255),
+	user_profile_description	character varying(255),
+	user_profile_location		character varying(100),
+	user_created_at			timestamp,
+	user_followers_count		integer,	
+	user_name			character varying(255),
+	user_screen_name		character varying(255),
+	user_time_zone			timestamp
+);

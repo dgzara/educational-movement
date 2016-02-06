@@ -90,7 +90,7 @@ for(i in hashtags){
     #scale_x_date(breaks = date_breaks(width = "10 day")) + 
     xlab("") + ylab("Dialy tweets per user") +  labs(colour = "Types") +
     #scale_y_log10() +
-    theme(legend.position="bottom",legend.direction="horizontal") +
+    theme(legend.position="bottom",legend.direction="horizontal", panel.background = element_rect(fill = "white")) +
     ggtitle(i)
   
   ggsave(paste0("../data/plots/tweetsperuser/",i,".pdf",sep = ""), plot = p1)

@@ -1,0 +1,4 @@
+rownames(texts) <- c("4deagosto", "comisioneducacion", "CompendioCones", "educacionpublicaahora", "EducaciónPúblicaGratuitaYDeCalidad", "FuerzaEstudiantes", "Latinoamericaporlaeducacion", "marchadelosparaguas", "movimientoestudiantil", "noleyhinzpeter", "PedaleoxLaEducacion", "rankingxpsu", "reformaeducacional", "sintransar", "TodosxLaEducacion", "tomaliceo", "YoApoyoALosEstudiantes", "Yomarchoel11", "Yomarchoel13", "Yomarchoel17", "Yomarchoel25", "Yomarchoel26", "Yomarchoel28", "Yomarchoel5"))
+
+
+ 
