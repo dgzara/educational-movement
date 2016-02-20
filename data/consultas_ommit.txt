@@ -1,0 +1,17 @@
+UPDATE hashtags_time
+SET ommit = 1
+WHERE hashtag = 'marchadelosparaguas' AND created_at < '2011-08-17'
+
+
+SELECT *
+FROM hashtags_time
+WHERE hashtag = 'marchadelosparaguas' AND ommit = 0
+ORDER BY created_at
+LIMIT 100;
+
+UPDATE hashtags_time
+SET ommit = 1
+WHERE id in ()
+
+
+
